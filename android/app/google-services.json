@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029392051297",
+    "project_id": "notipotro",
+    "storage_bucket": "notipotro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029392051297:android:7895b9cb9afa31b7bb4e20",
+        "android_client_info": {
+          "package_name": "com.jferdous.firebase_note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQt3kKbm0vV6i-neZRKqY1xGDmYXRD6PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
